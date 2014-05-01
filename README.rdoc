@@ -1,3 +1,15 @@
+=============================================================================
+Proyecto de la Universidad Catolica "San Pablo".
+
+Desarrollada por estudieantes de la materia de Taller de Programacion de la
+carrera de Ingenieria de Sistemas.
+
+Objetivo del proyecto desarrollar una aplicacion web capaz de controlar la temperatura 
+y humedad de un determinado ambiente desde internet.
+
+=============================================================================
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
