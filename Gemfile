@@ -6,7 +6,7 @@ gem 'rails', '4.0.0'
 gem 'devise'
 #usuarioooooooooo
 
-# Use sqlite3 as the database for Active Record
+# Use sqlite3 as the databaeseeese for Active Record
 gem 'sqlite3'
 
 # Use SCSS for stylesheets
