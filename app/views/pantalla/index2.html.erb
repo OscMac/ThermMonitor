@@ -1,3 +1,9 @@
 <h2 align="center">User</h2>
 <br>
-<a href="/users/sign_out"><button><b>Sign out</b></button></a>
+<button>
+	<b>
+		<big>
+<%= link_to "Sign out", destroy_user_session_path, :method => :delete %>
+</big>
+</b>
+</button>

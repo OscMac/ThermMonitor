@@ -1,5 +1,5 @@
 ThermMonitor::Application.routes.draw do
-  devise_for :users
+ devise_for :users
   get '/home' => 'pantalla#index2'
   # match 'user_root' => 'pantalla#index2', as: :user_root
   # The priority is based upon order of creation: first created -> highest priority.
