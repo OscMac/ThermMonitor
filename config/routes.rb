@@ -1,6 +1,9 @@
 ThermMonitor::Application.routes.draw do
  devise_for :users
   get '/home' => 'pantalla#index2'
+  get '/about' => 'pantalla#about'
+  get '/walsoft' => 'pantalla#walsoft'
+  get '/contact_us' => 'pantalla#contact_us' 
   # match 'user_root' => 'pantalla#index2', as: :user_root
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
